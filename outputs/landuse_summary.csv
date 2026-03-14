@@ -1,0 +1,7 @@
+class_id,class_name,pixels,area_km2,pct
+0,Agricultural,585856,58.59,4.2
+1,Bare_Soil,5702244,570.22,40.9
+2,Industrial,1176968,117.7,8.4
+3,Urban,1994577,199.46,14.3
+4,Vegetation,2278813,227.88,16.3
+5,Water,2209958,221.0,15.8

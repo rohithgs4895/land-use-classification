@@ -1,0 +1,24 @@
+# Core scientific stack
+numpy>=1.26
+pandas>=2.0
+scipy>=1.11
+matplotlib>=3.7
+
+# Machine learning
+scikit-learn>=1.3
+
+# Geospatial
+rasterio>=1.3
+geopandas>=1.0
+shapely>=2.0
+pyproj>=3.6
+fiona>=1.9
+
+# Satellite data access
+pystac-client>=0.7
+planetary-computer>=1.0
+azure-storage-blob>=12.19   # required by planetary-computer
+
+# Utilities
+tqdm>=4.66
+Pillow>=10.0
