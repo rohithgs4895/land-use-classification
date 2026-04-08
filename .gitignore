@@ -1,0 +1,46 @@
+# Large satellite imagery and DEM tiles
+data/raw/
+
+# Generated feature CSV (265k rows, 79 MB — regenerate via create_training_samples.py)
+data/features/
+
+# Large feature raster (2 GB)
+outputs/feature_stack.tif
+
+# Model pickle files (regenerate by running train_classifier.py)
+models/*.pkl
+
+# Prediction rasters
+outputs/*.tif
+
+# ArcGIS sidecar files
+outputs/*.aux.xml
+outputs/*.ovr
+outputs/*.vat.cpg
+outputs/*.vat.dbf
+outputs/*.vat.dbf.*
+outputs/*.tfw
+outputs/*.shp.xml
+outputs/*.sbn
+outputs/*.sbx
+outputs/*.pdf
+
+# Temporary utility scripts
+src/_*.py
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db

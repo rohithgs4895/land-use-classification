@@ -1,0 +1,15 @@
+Land-Use Classification — Published ArcGIS Items
+==================================================
+
+Title    : LUC_Phoenix_LandUse_Polygons
+Type     : Feature Service
+Item ID  : 7db8da7e4f4c4087b0ee6a46870e89e4
+REST URL : https://services7.arcgis.com/yqi6pErDrXK6551P/arcgis/rest/services/LUC_Phoenix_LandUse_Polygons/FeatureServer
+Portal   : https://www.arcgis.com/home/item.html?id=7db8da7e4f4c4087b0ee6a46870e89e4
+
+Title    : LUC_Phoenix_Summary
+Type     : Feature Service
+Item ID  : b9fc2184ca904ba293c03393b641e2bc
+REST URL : https://services7.arcgis.com/yqi6pErDrXK6551P/arcgis/rest/services/LUC_Phoenix_Summary_pub/FeatureServer
+Portal   : https://www.arcgis.com/home/item.html?id=b9fc2184ca904ba293c03393b641e2bc
+
